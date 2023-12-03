@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework14_Leacture17</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="habitat">Habitat</string>
+    <string name="_0">0</string>
+    <string name="new_name">New Name</string>
+    <string name="new_type_1_edible_or_2_dangerous">New Type 1 - Edible or 2 - Dangerous</string>
+    <string name="edit_item_with_id">edit Item with ID:</string>
+    <string name="_1">-1</string>
+</resources>
